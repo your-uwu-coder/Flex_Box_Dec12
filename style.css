@@ -1,0 +1,47 @@
+.container {
+    width: 800px;
+    background-color: silver;
+}
+
+.title h1 {
+    text-align: center;
+    padding: 40px;
+    margin: 5px;
+}
+
+.col {
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.col img {
+    height: 200px;
+}
+
+.col-2 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightpink;
+    padding: 20px;
+}
+
+.col-2 img {
+    height: 200px;
+}
+
+.col-3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.col-3 img {
+    height: 200px;
+}
+
+p {
+    text-align: center;
+}
